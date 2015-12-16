@@ -1,0 +1,16 @@
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\bin\Debug\RecipeHelperProxemics.exe.config
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\bin\Debug\RecipeHelperProxemics.exe
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\bin\Debug\RecipeHelperProxemics.pdb
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\obj\Debug\MainWindow.g.cs
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\obj\Debug\App.g.cs
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\obj\Debug\RecipeHelperProxemics_MarkupCompile.cache
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\obj\Debug\RecipeHelperProxemics_MarkupCompile.lref
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\obj\Debug\MainWindow.baml
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\obj\Debug\RecipeHelperProxemics.g.resources
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\obj\Debug\RecipeHelperProxemics.Properties.Resources.resources
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\obj\Debug\RecipeHelperProxemics.csproj.GenerateResource.Cache
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\obj\Debug\RecipeHelperProxemics.exe
+c:\users\carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\obj\Debug\RecipeHelperProxemics.pdb
+C:\Users\Carrie\Documents\Visual Studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\obj\Debug\RecipeHelperProxemics.csprojResolveAssemblyReference.cache
+C:\Users\Carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Carrie\documents\visual studio 2015\Projects\RecipeHelperProxemics\RecipeHelperProxemics\bin\Debug\Microsoft.Kinect.xml
